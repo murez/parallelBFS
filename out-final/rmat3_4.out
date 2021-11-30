@@ -1,0 +1,517 @@
+reading file from rmat3.in
+creating csr
+create csr successfully
+1 2 3 4 5 
+------------
+omp_thread: 1
+---------------
+node :1
+MTEPS: 68.611382
+Trial Time:	6.122774
+MTEPS: 69.295298
+Trial Time:	6.062345
+MTEPS: 69.215940
+Trial Time:	6.069296
+MTEPS: 69.188830
+Trial Time:	6.071674
+---------------
+node :2
+MTEPS: 70.337118
+Trial Time:	6.209272
+MTEPS: 69.836479
+Trial Time:	6.253784
+MTEPS: 66.200044
+Trial Time:	6.597311
+MTEPS: 70.481183
+Trial Time:	6.196580
+---------------
+node :3
+MTEPS: 68.461526
+Trial Time:	6.097629
+MTEPS: 68.750267
+Trial Time:	6.072019
+MTEPS: 68.596340
+Trial Time:	6.085645
+MTEPS: 67.476083
+Trial Time:	6.186680
+---------------
+node :4
+MTEPS: 73.368932
+Trial Time:	6.406475
+MTEPS: 72.262626
+Trial Time:	6.504555
+MTEPS: 72.393836
+Trial Time:	6.492766
+MTEPS: 72.632907
+Trial Time:	6.471395
+---------------
+node :5
+MTEPS: 72.145899
+Trial Time:	6.705610
+MTEPS: 72.974152
+Trial Time:	6.629501
+MTEPS: 73.425887
+Trial Time:	6.588715
+MTEPS: 73.394321
+Trial Time:	6.591549
+Min time: 6.062345
+Max time: 6.705610
+Avg time: 6.320779
+Avg MTEPS: 70.452453
+Avg steps: 445621140
+------------
+omp_thread: 2
+---------------
+node :1
+MTEPS: 126.441057
+Trial Time:	3.322433
+MTEPS: 125.887706
+Trial Time:	3.337038
+MTEPS: 125.445566
+Trial Time:	3.348799
+MTEPS: 127.929053
+Trial Time:	3.283789
+---------------
+node :2
+MTEPS: 129.055140
+Trial Time:	3.384152
+MTEPS: 129.635200
+Trial Time:	3.369010
+MTEPS: 129.515277
+Trial Time:	3.372129
+MTEPS: 129.438509
+Trial Time:	3.374129
+---------------
+node :3
+MTEPS: 126.901197
+Trial Time:	3.289590
+MTEPS: 125.400669
+Trial Time:	3.328953
+MTEPS: 125.067181
+Trial Time:	3.337830
+MTEPS: 124.944732
+Trial Time:	3.341101
+---------------
+node :4
+MTEPS: 135.388388
+Trial Time:	3.471762
+MTEPS: 133.724224
+Trial Time:	3.514967
+MTEPS: 134.678084
+Trial Time:	3.490072
+MTEPS: 134.660683
+Trial Time:	3.490523
+---------------
+node :5
+MTEPS: 136.348132
+Trial Time:	3.548140
+MTEPS: 136.440160
+Trial Time:	3.545747
+MTEPS: 134.992954
+Trial Time:	3.583759
+MTEPS: 133.408954
+Trial Time:	3.626310
+Min time: 3.283789
+Max time: 3.626310
+Avg time: 3.418012
+Avg MTEPS: 130.265144
+Avg steps: 445621140
+------------
+omp_thread: 4
+---------------
+node :1
+MTEPS: 247.437434
+Trial Time:	1.697771
+MTEPS: 247.288274
+Trial Time:	1.698795
+MTEPS: 247.432537
+Trial Time:	1.697804
+MTEPS: 246.011069
+Trial Time:	1.707614
+---------------
+node :2
+MTEPS: 250.555431
+Trial Time:	1.743096
+MTEPS: 251.872367
+Trial Time:	1.733982
+MTEPS: 250.291839
+Trial Time:	1.744932
+MTEPS: 251.152301
+Trial Time:	1.738954
+---------------
+node :3
+MTEPS: 245.566952
+Trial Time:	1.699956
+MTEPS: 245.951190
+Trial Time:	1.697300
+MTEPS: 246.146818
+Trial Time:	1.695951
+MTEPS: 245.930741
+Trial Time:	1.697441
+---------------
+node :4
+MTEPS: 261.221888
+Trial Time:	1.799375
+MTEPS: 261.043452
+Trial Time:	1.800605
+MTEPS: 260.221912
+Trial Time:	1.806290
+MTEPS: 260.195567
+Trial Time:	1.806473
+---------------
+node :5
+MTEPS: 263.012808
+Trial Time:	1.839387
+MTEPS: 261.888270
+Trial Time:	1.847285
+MTEPS: 264.946187
+Trial Time:	1.825964
+MTEPS: 265.917549
+Trial Time:	1.819294
+Min time: 1.695951
+Max time: 1.847285
+Avg time: 1.754913
+Avg MTEPS: 253.704230
+Avg steps: 445621140
+------------
+omp_thread: 8
+---------------
+node :1
+MTEPS: 428.721618
+Trial Time:	0.979871
+MTEPS: 429.434671
+Trial Time:	0.978244
+MTEPS: 429.436997
+Trial Time:	0.978239
+MTEPS: 430.371756
+Trial Time:	0.976114
+---------------
+node :2
+MTEPS: 438.142646
+Trial Time:	0.996804
+MTEPS: 433.346739
+Trial Time:	1.007836
+MTEPS: 431.891472
+Trial Time:	1.011232
+MTEPS: 438.289253
+Trial Time:	0.996470
+---------------
+node :3
+MTEPS: 421.620377
+Trial Time:	0.990116
+MTEPS: 427.075591
+Trial Time:	0.977469
+MTEPS: 426.965434
+Trial Time:	0.977721
+MTEPS: 426.175523
+Trial Time:	0.979533
+---------------
+node :4
+MTEPS: 457.346226
+Trial Time:	1.027747
+MTEPS: 457.267191
+Trial Time:	1.027925
+MTEPS: 454.682652
+Trial Time:	1.033768
+MTEPS: 455.789365
+Trial Time:	1.031258
+---------------
+node :5
+MTEPS: 462.381741
+Trial Time:	1.046283
+MTEPS: 464.711430
+Trial Time:	1.041038
+MTEPS: 465.700523
+Trial Time:	1.038827
+MTEPS: 464.526276
+Trial Time:	1.041453
+Min time: 0.976114
+Max time: 1.046283
+Avg time: 1.006897
+Avg MTEPS: 442.193876
+Avg steps: 445621140
+------------
+omp_thread: 16
+---------------
+node :1
+MTEPS: 774.268041
+Trial Time:	0.542567
+MTEPS: 773.660836
+Trial Time:	0.542992
+MTEPS: 773.141241
+Trial Time:	0.543357
+MTEPS: 771.226744
+Trial Time:	0.544706
+---------------
+node :2
+MTEPS: 788.921952
+Trial Time:	0.553594
+MTEPS: 788.973129
+Trial Time:	0.553558
+MTEPS: 748.738938
+Trial Time:	0.583304
+MTEPS: 789.255099
+Trial Time:	0.553360
+---------------
+node :3
+MTEPS: 724.030942
+Trial Time:	0.576568
+MTEPS: 760.590213
+Trial Time:	0.548854
+MTEPS: 767.171393
+Trial Time:	0.544146
+MTEPS: 714.656440
+Trial Time:	0.584131
+---------------
+node :4
+MTEPS: 829.430516
+Trial Time:	0.566698
+MTEPS: 828.820734
+Trial Time:	0.567114
+MTEPS: 738.081825
+Trial Time:	0.636835
+MTEPS: 716.239805
+Trial Time:	0.656255
+---------------
+node :5
+MTEPS: 832.434469
+Trial Time:	0.581166
+MTEPS: 841.142351
+Trial Time:	0.575149
+MTEPS: 838.705608
+Trial Time:	0.576820
+MTEPS: 838.158583
+Trial Time:	0.577197
+Min time: 0.542567
+Max time: 0.656255
+Avg time: 0.570419
+Avg MTEPS: 781.882445
+Avg steps: 445621140
+------------
+omp_thread: 32
+---------------
+node :1
+MTEPS: 1383.420926
+Trial Time:	0.303662
+MTEPS: 1374.977887
+Trial Time:	0.305526
+MTEPS: 1374.484384
+Trial Time:	0.305636
+MTEPS: 1377.068191
+Trial Time:	0.305063
+---------------
+node :2
+MTEPS: 1407.524732
+Trial Time:	0.310291
+MTEPS: 1408.296240
+Trial Time:	0.310121
+MTEPS: 1403.537665
+Trial Time:	0.311172
+MTEPS: 1408.845007
+Trial Time:	0.310000
+---------------
+node :3
+MTEPS: 1363.983818
+Trial Time:	0.306054
+MTEPS: 1365.277761
+Trial Time:	0.305764
+MTEPS: 1348.821692
+Trial Time:	0.309495
+MTEPS: 1362.132927
+Trial Time:	0.306470
+---------------
+node :4
+MTEPS: 1386.324334
+Trial Time:	0.339052
+MTEPS: 1484.403551
+Trial Time:	0.316650
+MTEPS: 1488.030907
+Trial Time:	0.315878
+MTEPS: 1407.659064
+Trial Time:	0.333913
+---------------
+node :5
+MTEPS: 1514.838113
+Trial Time:	0.319362
+MTEPS: 1509.705648
+Trial Time:	0.320448
+MTEPS: 1511.268397
+Trial Time:	0.320117
+MTEPS: 1511.787587
+Trial Time:	0.320007
+Min time: 0.303662
+Max time: 0.339052
+Avg time: 0.313734
+Avg MTEPS: 1419.619446
+Avg steps: 445621140
+------------
+omp_thread: 48
+---------------
+node :1
+MTEPS: 1852.484229
+Trial Time:	0.226772
+MTEPS: 1847.523835
+Trial Time:	0.227381
+MTEPS: 1849.948852
+Trial Time:	0.227083
+MTEPS: 1848.427697
+Trial Time:	0.227270
+---------------
+node :2
+MTEPS: 1895.637755
+Trial Time:	0.230393
+MTEPS: 1890.603565
+Trial Time:	0.231007
+MTEPS: 1886.022722
+Trial Time:	0.231568
+MTEPS: 1890.683127
+Trial Time:	0.230997
+---------------
+node :3
+MTEPS: 1824.731373
+Trial Time:	0.228775
+MTEPS: 1824.291693
+Trial Time:	0.228830
+MTEPS: 1823.566435
+Trial Time:	0.228921
+MTEPS: 1821.308245
+Trial Time:	0.229205
+---------------
+node :4
+MTEPS: 2002.272720
+Trial Time:	0.234751
+MTEPS: 2002.502441
+Trial Time:	0.234724
+MTEPS: 2000.233431
+Trial Time:	0.234991
+MTEPS: 2006.266256
+Trial Time:	0.234284
+---------------
+node :5
+MTEPS: 2036.600614
+Trial Time:	0.237544
+MTEPS: 2036.035096
+Trial Time:	0.237610
+MTEPS: 2034.667259
+Trial Time:	0.237770
+MTEPS: 2019.135564
+Trial Time:	0.239599
+Min time: 0.226772
+Max time: 0.239599
+Avg time: 0.231974
+Avg MTEPS: 1919.647152
+Avg steps: 445621140
+------------
+omp_thread: 64
+---------------
+node :1
+MTEPS: 2181.809045
+Trial Time:	0.192543
+MTEPS: 2168.011454
+Trial Time:	0.193768
+MTEPS: 2175.008177
+Trial Time:	0.193145
+MTEPS: 2175.099046
+Trial Time:	0.193137
+---------------
+node :2
+MTEPS: 2173.213641
+Trial Time:	0.200966
+MTEPS: 2236.344877
+Trial Time:	0.195293
+MTEPS: 2233.654044
+Trial Time:	0.195528
+MTEPS: 2243.177433
+Trial Time:	0.194698
+---------------
+node :3
+MTEPS: 2079.296561
+Trial Time:	0.200766
+MTEPS: 2168.451246
+Trial Time:	0.192512
+MTEPS: 1926.531574
+Trial Time:	0.216686
+MTEPS: 2158.897025
+Trial Time:	0.193364
+---------------
+node :4
+MTEPS: 2392.771435
+Trial Time:	0.196440
+MTEPS: 2313.730870
+Trial Time:	0.203151
+MTEPS: 2394.541705
+Trial Time:	0.196295
+MTEPS: 2390.564812
+Trial Time:	0.196621
+---------------
+node :5
+MTEPS: 2437.547666
+Trial Time:	0.198471
+MTEPS: 2439.525963
+Trial Time:	0.198310
+MTEPS: 2423.572566
+Trial Time:	0.199615
+MTEPS: 2408.195045
+Trial Time:	0.200890
+Min time: 0.192512
+Max time: 0.216686
+Avg time: 0.197610
+Avg MTEPS: 2255.997217
+Avg steps: 445621140
+------------
+omp_thread: 128
+---------------
+node :1
+MTEPS: 1613.420789
+Trial Time:	0.260373
+MTEPS: 1598.071128
+Trial Time:	0.262874
+MTEPS: 1592.546519
+Trial Time:	0.263786
+MTEPS: 1663.621783
+Trial Time:	0.252517
+---------------
+node :2
+MTEPS: 1619.394198
+Trial Time:	0.269695
+MTEPS: 1490.351481
+Trial Time:	0.293046
+MTEPS: 1621.931851
+Trial Time:	0.269273
+MTEPS: 1606.156547
+Trial Time:	0.271918
+---------------
+node :3
+MTEPS: 1462.727238
+Trial Time:	0.285394
+MTEPS: 1537.519023
+Trial Time:	0.271511
+MTEPS: 1601.893940
+Trial Time:	0.260600
+MTEPS: 1597.103328
+Trial Time:	0.261381
+---------------
+node :4
+MTEPS: 1647.323638
+Trial Time:	0.285333
+MTEPS: 1805.478599
+Trial Time:	0.260339
+MTEPS: 1721.315273
+Trial Time:	0.273068
+MTEPS: 1711.340850
+Trial Time:	0.274660
+---------------
+node :5
+MTEPS: 1827.507400
+Trial Time:	0.264722
+MTEPS: 1732.183165
+Trial Time:	0.279290
+MTEPS: 1904.139329
+Trial Time:	0.254069
+MTEPS: 1748.465339
+Trial Time:	0.276690
+Min time: 0.252517
+Max time: 0.293046
+Avg time: 0.269527
+Avg MTEPS: 1655.124576
+Avg steps: 445621140
