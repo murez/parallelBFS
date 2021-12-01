@@ -1,6 +1,5 @@
 # CS121 Parallel Computing Lab 1 Breadth First Search using OpenMP
 
-<center>张厶元 2019533240 zhangsy3@shanghaitech.edu.cn</center>
 
 ## Configuration
 
